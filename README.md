@@ -1,5 +1,5 @@
 # MultiPlayer-UsingGAS-PVPVE-VRisingLike-Game
-Gameplay Video Link : https://drive.google.com/file/d/1P5DTdv9fU5yMoUIQLZfHHIPy3LCOPBbH/view?usp=drive_link
+Gameplay Video Link : https://www.youtube.com/watch?v=h9vMvUuKsJo&list=PLeUQ9Opn9i7OVt3ZP3Vw3DxmMvpgFw-BR&index=3
   
 ------------------------------------------------------------ TR ------------------------------------------------------------
 - Projede Gameplay Ability System(GAS) kullanildi. Yapı Gas üzerine multiplayer odaklı olacak şekilde kuruldu.
